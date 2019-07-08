@@ -2,12 +2,12 @@
 
 # 计算机专业基础课
 
-- 全文基于汤子瀛的《计算机操作系统》第四版--西安电子科技大学出版社
+> 按照全国硕士研究生入学考试，计算机学科专业基础综合的考试内容，我们会围绕这四门专业着重讲解。
 
-  + 计算机组成原理 
-  + 操作系统
-  + 数据结构
-  + 计算机网络
+- 计算机组成原理 
+- 操作系统
+- 数据结构
+- 计算机网络
 
 [![stars](https://badgen.net/github/stars/fmw666/CS-Basic-Courses?icon=github&color=4ab8a1)](https://github.com/fmw666/CS-Basic-Courses) 
 [![forks](https://badgen.net/github/forks/fmw666/CS-Basic-Courses?icon=github&color=4ab8a1)](https://github.com/fmw666/CS-Basic-Courses)
